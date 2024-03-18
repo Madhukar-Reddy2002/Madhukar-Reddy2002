@@ -16,7 +16,7 @@ Hello! 👋 I'm currently pursuing my studies in Computer Science at Lovely Prof
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Madhukar-Reddy2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 I wanna see you smile...
+### 😂 Wanna see you smile...
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
