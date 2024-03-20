@@ -13,11 +13,11 @@ Hello! 👋 I'm currently pursuing my studies in Computer Science at Lovely Prof
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Madhukar-Reddy2002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhukar-Reddy2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Madhukar-Reddy2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Wanna see you smile...
+
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+### 😂 I can see your smile...
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Madhukar-Reddy2002&icon=1&color=0)](https://visitcount.itsvg.in)
